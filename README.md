@@ -1,6 +1,7 @@
 # 🌾 KisanDirect
 
 KisanDirect is a decentralized, transparent platform designed to connect *farmers, **consumers, and **government bodies* through real-time dashboards, direct product transactions, and immutable digital records of ration and product distribution.
+
 ###👥 This project is a collaborative effort built with friends and driven by a shared mission to empower agricultural communities.
 
 
